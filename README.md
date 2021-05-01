@@ -1,4 +1,4 @@
-# Arminius FOSS
+# WhereDevsDeev
 
 Welcome to our FOSS community! We are a group of software engineers who work in various domains. We mostly collaborate on a wide array of projects under the community's handle but are open to researching and contirbuting to existing FOSS projects out in the wild.
 
